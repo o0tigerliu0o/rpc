@@ -1,10 +1,10 @@
-/* Copyright 2020 DXM Inc. All Rights Reserved. */
+/* Copyright 2018 Inc. All Rights Reserved. */
 
 /* File : main.go */
 /*
 modification history
 --------------------
-2020-05-28 09:20 , by liuchang, create
+2018-05-28 09:19 , by o0TigerLiu0o, create
 */
 /*
 DESCRIPTION
